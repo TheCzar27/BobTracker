@@ -1,4 +1,4 @@
-#BobTracker
+BobTracker:
 
 A course project mobile application developed with a few classmates in Android Studio.
 The purpose of BobTracker is to track a user's fitness journey and help them achieve their goals by using a points system.

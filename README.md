@@ -1,16 +1,6 @@
-# mobileappdemo
+#BobTracker
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A course project mobile application developed with a few classmates in Android Studio.
+The purpose of BobTracker is to track a user's fitness journey and help them achieve their goals by using a points system.
+When a user is working out, they will start a timer and earn points that are used in a shop for rewards. 
+Users can customize a schedule to workout with notifications to remind them of when they should do a workout.
